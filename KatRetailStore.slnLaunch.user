@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "KatRetailStore.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "..\\KatRetailFunction\\KatRetailFunction.csproj",
+        "Action": "Start",
+        "DebugTarget": "KatRetailFunction"
+      }
+    ]
+  }
+]
